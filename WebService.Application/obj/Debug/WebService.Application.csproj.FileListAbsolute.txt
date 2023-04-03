@@ -1,0 +1,17 @@
+D:\Nannei\WebService\WebService\WebService.Application\obj\Debug\WebService.Application.csproj.AssemblyReference.cache
+D:\Nannei\WebService\WebService\WebService.Application\obj\Debug\WebService.Application.csproj.CoreCompileInputs.cache
+D:\Nannei\WebService\WebService\WebService.Application\bin\Debug\WebService.Application.dll
+D:\Nannei\WebService\WebService\WebService.Application\bin\Debug\WebService.Application.pdb
+D:\Nannei\WebService\WebService\WebService.Application\bin\Debug\Castle.Core.dll
+D:\Nannei\WebService\WebService\WebService.Application\bin\Debug\Castle.Facilities.Logging.dll
+D:\Nannei\WebService\WebService\WebService.Application\bin\Debug\Castle.Facilities.WcfIntegration.dll
+D:\Nannei\WebService\WebService\WebService.Application\bin\Debug\Castle.Windsor.dll
+D:\Nannei\WebService\WebService\WebService.Application\bin\Debug\Newtonsoft.Json.dll
+D:\Nannei\WebService\WebService\WebService.Application\bin\Debug\Castle.Core.xml
+D:\Nannei\WebService\WebService\WebService.Application\bin\Debug\Castle.Facilities.Logging.xml
+D:\Nannei\WebService\WebService\WebService.Application\bin\Debug\Castle.Facilities.WcfIntegration.xml
+D:\Nannei\WebService\WebService\WebService.Application\bin\Debug\Castle.Windsor.xml
+D:\Nannei\WebService\WebService\WebService.Application\bin\Debug\Newtonsoft.Json.xml
+D:\Nannei\WebService\WebService\WebService.Application\obj\Debug\WebService.Application.csproj.CopyComplete
+D:\Nannei\WebService\WebService\WebService.Application\obj\Debug\WebService.Application.dll
+D:\Nannei\WebService\WebService\WebService.Application\obj\Debug\WebService.Application.pdb

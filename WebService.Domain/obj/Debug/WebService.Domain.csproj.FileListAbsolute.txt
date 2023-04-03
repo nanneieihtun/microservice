@@ -1,0 +1,6 @@
+D:\Nannei\WebService\WebService\WebService.Domain\bin\Debug\WebService.Domain.dll
+D:\Nannei\WebService\WebService\WebService.Domain\bin\Debug\WebService.Domain.pdb
+D:\Nannei\WebService\WebService\WebService.Domain\obj\Debug\WebService.Domain.csproj.AssemblyReference.cache
+D:\Nannei\WebService\WebService\WebService.Domain\obj\Debug\WebService.Domain.csproj.CoreCompileInputs.cache
+D:\Nannei\WebService\WebService\WebService.Domain\obj\Debug\WebService.Domain.dll
+D:\Nannei\WebService\WebService\WebService.Domain\obj\Debug\WebService.Domain.pdb

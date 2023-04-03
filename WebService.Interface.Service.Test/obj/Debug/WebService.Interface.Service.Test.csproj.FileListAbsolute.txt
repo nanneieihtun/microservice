@@ -1,0 +1,15 @@
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\obj\Debug\WebService.Interface.Service.Test.csproj.AssemblyReference.cache
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\obj\Debug\WebService.Interface.Service.Test.csproj.SuggestedBindingRedirects.cache
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\obj\Debug\WebService.Interface.Service.Test.csproj.CoreCompileInputs.cache
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\bin\Debug\WebService.Interface.Service.Test.exe.config
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\bin\Debug\WebService.Interface.Service.Test.exe
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\bin\Debug\WebService.Interface.Service.Test.pdb
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\bin\Debug\Castle.Windsor.dll
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\bin\Debug\log4net.dll
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\bin\Debug\Newtonsoft.Json.dll
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\bin\Debug\Castle.Windsor.xml
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\bin\Debug\log4net.xml
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\bin\Debug\Newtonsoft.Json.xml
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\obj\Debug\WebService.Interface.Service.Test.csproj.CopyComplete
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\obj\Debug\WebService.Interface.Service.Test.exe
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Test\obj\Debug\WebService.Interface.Service.Test.pdb

@@ -1,0 +1,4 @@
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Host\obj\Debug\WebService.Interface.Service.Host.csproj.AssemblyReference.cache
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Host\obj\Debug\WebService.Interface.Service.Host.csproj.SuggestedBindingRedirects.cache
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Host\obj\Debug\WebService.Interface.Service.Host.exe.config
+D:\Nannei\WebService\WebService\WebService.Interface.Service.Host\obj\Debug\WebService.Interface.Service.Host.csproj.CoreCompileInputs.cache
